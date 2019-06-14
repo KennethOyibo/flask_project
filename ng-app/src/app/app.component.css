@@ -1,0 +1,15 @@
+.container{
+    background-color: red;
+    height: 50px;
+    
+}
+
+#homepage_bar{
+    display: block;
+    margin-left: auto;
+    margin-right:auto;
+    width: 10%;
+    height: 100%
+
+
+}
